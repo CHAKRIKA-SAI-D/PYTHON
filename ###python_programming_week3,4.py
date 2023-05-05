@@ -89,3 +89,23 @@ a=input("enter the string: ")
 n=input("enter the string to be removed : ")
 remove_string(a,n)
 
+
+
+# print difference of odd and even
+def diff(a):
+    sume=0
+    sumo=0
+    for i in range(0,len(a)):
+        if a[i]%2==0:
+            sume=sume+a[i]
+        else:
+            sumo=sumo+a[i]
+    return abs(sume-sumo)
+list1=[]
+n=int(input("enter the size of list: "))
+for i in range(0,n):
+    c=int(input())
+    list1.append(c)
+diff=diff(list1)
+print(diff)
+
