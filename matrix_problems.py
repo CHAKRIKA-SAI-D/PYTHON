@@ -125,22 +125,11 @@ enter the elements of matrix 2:
 1
 0
 0
-1enter the size of rows of first matrix : 2
-enter the size of columns of first matrix2
-enter the size of rows of second matrix : 2
-enter the size of columns of second  matrix2
-enter the elements of matrix 1: 
-2
-2
-2
-2
-enter the elements of matrix 2: 
 1
-0
-0
-1
-2 2 
-2 2 
+
+
+
+
 2 2 
 2 2 
 
